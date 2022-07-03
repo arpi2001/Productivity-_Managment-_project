@@ -20,5 +20,7 @@ This program also includes a timer (counting up) and a distraction counter so th
 
 When the user goes to a page that should be blocked. The active tab redirects them to the blocked page. It basically only shows that the page is blocked and the user can just go back to the last page.
 
-![128](https://user-images.githubusercontent.com/107062835/177054272-ccd20468-3063-4eef-9b03-a70f08d0a2c4.png)
+![page](https://user-images.githubusercontent.com/107062835/177054383-a26a2b17-edc3-4024-af10-65ad7a9c665a.png)
+
+
 
